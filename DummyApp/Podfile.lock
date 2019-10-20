@@ -1,0 +1,25 @@
+PODS:
+  - Alamofire (4.9.0)
+  - AlamofireImage (3.5.2):
+    - Alamofire (~> 4.8)
+  - FutureKit (3.5.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - FutureKit
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - FutureKit
+
+SPEC CHECKSUMS:
+  Alamofire: afc3e7c6db61476cb45cdd23fed06bad03bbc321
+  AlamofireImage: 63cfe3baf1370be6c498149687cf6db3e3b00999
+  FutureKit: 91f6760df942278db387b05f19a9fdfbeb097df2
+
+PODFILE CHECKSUM: 009553c32fd6ef76771536c281a97037dce37f3a
+
+COCOAPODS: 1.8.4
